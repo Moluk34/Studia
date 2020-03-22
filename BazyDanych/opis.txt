@@ -1,0 +1,16 @@
+Verbatim stary:
+
+Biblioteka ma ksiazki.
+
+Jeden pracownik moze obslugiwac wiele zamowien
+
+czytelnik nie musi wypozyczac zadnych ksiazek
+nie kazdy pracownik musi wypozyczac
+
+przedmiotem wypozynie moze byc wiele ksiazek
+do wypozyczenia moze zostac wystawiony dokument, moze byc wystawionych wiele korygujacych
+
+Ksiazka ma swoich autorow i wydawnictwo
+
+Obecny:
+	Biblioteka posiada ksiązki. Klient przychodzi do Biblioteki by wypożyczyć jedną lub więcej książek. Obsługuje go jeden z wielu pracowników i formalizuje wypożyczenie.Na życzenie klienta może być dla wypożyczenia wystawiony dokument, a do niego dokumenty korygujące. Ksiązka ma swoje atrybuty i jest związana z jednym autorem.
